@@ -1,0 +1,1 @@
+This is an individual project I did using VMware. I had 3 Windows Server machines and 1 CentOS 7 machine. This project covered the installation and configuration of Active Directory, DNS, Group Policy, Active Directory Certificate Services, Apache, LAMP, Samba File Sharing, BIND DNS, and Windows File Sharing.
